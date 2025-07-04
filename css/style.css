@@ -7,6 +7,7 @@
 
 body {
   background-color: rgb(252, 245, 237);
+  overflow-x: hidden;
 }
 
 /* From here header section css */

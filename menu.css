@@ -1,0 +1,12 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list{
+    justify-self:center;
+}
+.menu img{
+    height: 500px;
+    width: 500px;
+}

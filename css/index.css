@@ -264,3 +264,27 @@ main {
   width: 32.3%;
   margin: 2px;
 }
+
+@media screen and (max-width: 1000px) {
+  /* Add styles here for responsiveness */
+  .men, .para, .men1, .par1 {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .moment {
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+  }
+
+  .mom1, .mom2 {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .a1, .a2, .a3, .b1, .b2, .b3 {
+    width: 100%;
+  }
+}

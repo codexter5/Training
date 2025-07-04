@@ -281,4 +281,20 @@ footer {
   footer .one, footer .two, footer .three {
   margin-bottom: 20vh;
 }
+  footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 20px;
+  }
+
+  .one, .two, .three {
+    width: 100%;
+    margin: 20px 0;
+    padding: 20px;
+  }
+
+  .heading1 {
+    font-size: 50px;
+  }
 }

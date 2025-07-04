@@ -207,7 +207,11 @@ footer {
   .hamburger-menu {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     height: 10vh;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(252, 245, 237);
   }
 
   .hb1 {
